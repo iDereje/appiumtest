@@ -1,3 +1,5 @@
+Sure, here's an updated version of your README file with a table:
+
 # Youtube Mobile Demo
 
 Welcome to the Youtube Mobile Demo! This is a simple Java project that demonstrates how to automate the Youtube app on an Android device using Appium.
@@ -44,14 +46,16 @@ public class YoutubeMobile {
 }
 ```
 
-## Working on Appium Projects
+## Resources
 
-If you are interested in working on Appium projects, there are several resources available that can help you get started. The [Appium documentation](http://appium.io/docs/en/about-appium/intro/) is a great place to start, as it provides an introduction to Appium and covers the basics of setting up and running Appium tests.
+If you are interested in working on Appium projects, there are several resources available that can help you get started. The following table lists some popular resources:
 
-Additionally, there are several online courses and tutorials that can help you develop your Appium skills. Some popular resources include:
+| Resource | Description |
+| --- | --- |
+| [Appium documentation](http://appium.io/docs/en/about-appium/intro/) | Provides an introduction to Appium and covers the basics of setting up and running Appium tests. |
+| [Appium Pro](https://appiumpro.com/) | Offers weekly Appium tips and tricks, tutorials, and other Appium-related content. |
+| [Test Automation University](https://testautomationu.applitools.com/appium-java-tutorial/) | Offers a free online course on Appium using Java. |
+| [Udemy](https://www.udemy.com/topic/appium/) | Offers several paid courses on Appium for beginners and advanced users. |
 
-- [Appium Pro](https://appiumpro.com/)
-- [Test Automation University](https://testautomationu.applitools.com/appium-java-tutorial/)
-- [Udemy](https://www.udemy.com/topic/appium/)
-
-We hope that this demo has been helpful in getting you started with automating the Youtube app on Android using Appium. If you have any questions or comments, please feel free to reach out to us at [your email address]. Thank you for using our demo!
+We hope that this demo has been helpful in getting you started with automating the Youtube app on Android using Appium. If you have any questions or comments, please feel free to reach out to me Derejeisack@gmail.com
+Thank you for using our demo!
